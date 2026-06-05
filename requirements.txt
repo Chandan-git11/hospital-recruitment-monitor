@@ -1,0 +1,9 @@
+requests>=2.31
+beautifulsoup4>=4.12
+flask>=2.3
+flask-cors>=3.1
+apscheduler>=3.10
+pandas>=2.0
+openpyxl>=3.1
+python-dotenv>=1.0
+pytest>=8.0
